@@ -19,7 +19,7 @@ This project is a Security Information and Event Management (SIEM) system that c
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/SIEM-System.git
+    git clone https://github.com/Barrosleo/SIEM-System.git
     ```
 2. Navigate to the project directory:
     ```bash
